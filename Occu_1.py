@@ -1,0 +1,7 @@
+print("Occurence of given character in a String")
+print("Enter String")
+s=input()
+print("Enter A Character")
+c=input()
+o=s.count(c)
+print(o)

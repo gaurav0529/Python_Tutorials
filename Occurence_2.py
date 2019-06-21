@@ -1,0 +1,7 @@
+print("Occurence of substring of String in a sting")
+print("Enter string")
+s=input()
+print("Enter Substring")
+sub=input()
+o=s.count(sub)
+print(o)
